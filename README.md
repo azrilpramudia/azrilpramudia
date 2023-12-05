@@ -27,3 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azrilpramudia&show_icons=true&locale=en" alt="azrilpramudia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&" alt="azrilpramudia" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
