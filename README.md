@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning GO & C# languages<br> Fun fact - i am play game and learn programming
+I’m currently learning MERN Stack<br> Fun fact - i am play game and learn programming
 
 
 ## 🌐 Socials:
