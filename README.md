@@ -1,21 +1,71 @@
-# 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>⚡ Fun fact - Play games and Focus
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azril+Pramudia!;" />
+</h1>
 
+<h3 align="center">I'm Student Informatics Engineering</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/azrilpramudia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/azril-pramudia-anugrah-202a872a6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/azrilpramudia) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azrilpramudia&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Azrilpramudia&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azrilpramudia&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Azrilpramudia&limit=5&theme=react&combine_all_yearly_contributions=true)
+<strong>About Me :</strong>
+ 
+🌱 I’m currently learning **Javascript, Express, React, Tailwindcss**
 
----
-[![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
+⚡ Fun fact **Play games in your free time and focus on achievements**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div>
+
+  <strong>Socials :</strong>
+  
+  <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https:/instagram.com/azrilpramudia" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://x.com/azrilpramudia" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,linux,postman,vite,bun" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Azrilpramudia&theme=react&hide_border=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Azrilpramudia&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azrilpramudia&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+ [![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
