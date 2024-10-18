@@ -10,7 +10,7 @@
 
 <strong>About Me :</strong>
  
-🌱 I’m currently learning **Javascript, Express, React, Tailwindcss**
+🌱 I’m currently learning **Javascript, Express, React, and Tailwindcss**
 
 ⚡ Fun fact **Play games in your free time and focus on achievements**
 
