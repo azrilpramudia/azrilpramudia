@@ -2,17 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azril+Pramudia!;" />
 </h1>
 
-<h3 align="center">I'm Student Informatics Engineering</h3>
+<h3 align="center">A Passionate Beginners Frontend from Indonesia</h3>
 
 <br/>
 
 <div>
 
 <strong>About Me :</strong>
- 
-🌱 I’m currently learning **Javascript, Express, React, and Tailwindcss**
 
-⚡ Fun fact **Play games in your free time and focus on achievements**
+👩🏻‍🎓 Studied Informatics Engineering at the **Universitas Islam Nusantara**<br>
+🌱 I’m currently learning **Javascript, Express, React, and Tailwindcss**<br>
+⚡ Fun fact **Play games in your free time and focus on achievements**<br>
+🎸 **Guitar & Music Enthusiast**
 
 </div>
 
