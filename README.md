@@ -80,4 +80,4 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Azrilpramudia&abbreviated=true)
