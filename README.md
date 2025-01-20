@@ -36,11 +36,20 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Skills ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,linux,postman,vite,bun,npm" /><br>
+<div>
+    <h2>Technical Skills</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <br>
+    <h2>Frameworks</h2>
+    <img src="https://skillicons.dev/icons?i=react,vite,express,nodejs,tailwindcss" />
+    <br>
+    <h2>Tools</h2>
+    <img src="https://skillicons.dev/icons?i=git,github,npm,bun,vscode,figma,postman" />
+    <br>
+    <h2>Databases</h2>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
 <br/>
@@ -71,4 +80,4 @@
 
 <br/>
 
- [![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
