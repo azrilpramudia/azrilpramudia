@@ -30,6 +30,9 @@
   <a href="https://x.com/azrilpramudia" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
