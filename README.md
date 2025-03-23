@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azril+Pramudia!;" />
 </h1>
 
-<h3 align="center">A Passionate Beginners Frontend from Indonesia</h3>
+<h3 align="center">A Passionate Web Development From Indonesia</h3>
 
 <br/>
 
