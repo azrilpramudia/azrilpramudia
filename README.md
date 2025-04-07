@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,linux,postman,vite" /><br>
 </div>
 
