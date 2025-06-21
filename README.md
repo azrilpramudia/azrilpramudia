@@ -13,7 +13,7 @@
 👩🏻‍🎓 Studied Informatics Engineering at the **Universitas Islam Nusantara**<br>
 🌱 I’m currently learning **JavaScript, React, and TailwindCSS**<br>
 ⚡ Fun fact **Play games in your free time and focus on achievements**<br>
-🎸 **Guitar & Music Enthusiast**
+👋 **I'm Passionate Frontend Development & Linux Enthusiast**
 
 </div>
 
