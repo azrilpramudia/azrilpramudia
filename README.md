@@ -60,10 +60,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Azrilpramudia&theme=blueberry&hide_border=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Azrilpramudia&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&theme=tokyonight&hide_border=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=azrilpramudia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azrilpramudia&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilpramudia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
