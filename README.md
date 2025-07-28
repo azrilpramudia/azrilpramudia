@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azril+Pramudia!;" />
 </h1>
 
-<h3 align="center">Hello What Are You Looking At ?</h3>
+<h2 align="center">Hello What Are You Looking At ?</h2>
 
 <br/>
 
 <div>
 
-<strong>About Me :</strong>
+<h3>About Me :</h3>
 
 👩🏻‍🎓 Studied Informatics Engineering at the **Universitas Islam Nusantara**<br>
 🌱 I’m currently learning **JavaScript, React, and TailwindCSS**<br>
@@ -19,7 +19,7 @@
   
 <div align="left">
 
-<strong>Socials :</strong>
+<h3>Socials :</h3>
   
   <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
