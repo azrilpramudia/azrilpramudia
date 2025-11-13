@@ -39,11 +39,11 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,git,figma" />
-    <img src="https://skillicons.dev/icons?i=mysql,linux,postman,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,linux,prisma" /><br>
 </div>
 
 <br/>
