@@ -1,10 +1,10 @@
 [![An image of @azrilpramudia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azrilpramudia)](https://holopin.io/@azrilpramudia)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azril+Pramudia!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Meow!;+Web+Development" />
 </h1>
 
-<h2 align="center">Hello What Are You Looking At ?</h2>
+<h2 align="center">What Are You Looking For?</h2>
 
 <br/>
 
@@ -15,7 +15,7 @@
 👩🏻‍🎓 Studied Informatics Engineering at the **Universitas Islam Nusantara**<br>
 🌱 I’m currently learning **JavaScript, React, and TailwindCSS**<br>
 ⚡ Fun fact **Play games in your free time and focus on achievements**<br>
-👋 **I'm Passionate Frontend Development & Linux Enthusiast**
+👋 **I'm Passionate Web Development & Linux Enthusiast**
 
 </div>
   
