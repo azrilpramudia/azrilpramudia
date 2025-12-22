@@ -32,6 +32,9 @@
   <a href="https://www.facebook.com/azril.pramudia.01" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.youtube.com/@meow_dotenv" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
