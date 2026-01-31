@@ -1,7 +1,7 @@
 [![An image of @azrilpramudia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azrilpramudia)](https://holopin.io/@azrilpramudia)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Meow!;+Web+Development" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
 <h2 align="center">What Are You Looking For?</h2>
