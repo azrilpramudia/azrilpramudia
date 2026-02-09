@@ -21,7 +21,7 @@
   
 <div align="left">
 
-<h3>Socials :</h3>
+<h3>Connect With Me</h3>
   
   <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
