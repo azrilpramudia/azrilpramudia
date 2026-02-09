@@ -6,20 +6,25 @@
 
 <br/>
 
+
 <div>
 
 <h3>About Me :</h3>
 
-👩🏻‍🎓 Studied Informatics Engineering at the **Universitas Islam Nusantara**<br>
-🌱 I’m currently learning **JavaScript, React, and TailwindCSS**<br>
-⚡ Fun fact **Play games in your free time and focus on achievements**<br>
-👋 **I'm Passionate Web Development & Linux Enthusiast**
-
+```javascript
+const meow = {
+    location: "Indonesia 🇮🇩",
+    education: "Informatics Engineering at Nusantara Islamic University",
+    passionate: ["Web Development", "Linux Enthusiast"],
+    currentlyLearning: ["React", "TailwindCSS", "JavaScript", "TypeScript"],
+    funFact: ["Playing Guitar", "Playing Piano"],
+};
+```
 </div>
   
 <div align="left">
 
-<h3>Connect With Me</h3>
+### Connect With Me
   
   <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -37,7 +42,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">Tech Stack</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,git" />
@@ -48,7 +53,7 @@
 <hr/>
 
 <div align="center">
-  <h2> 👾 My Contributions 👾 </h2>
+  <h2> My Contributions </h2>
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrilpramudia/azrilpramudia/output/pacman-contribution-graph-dark.svg">
@@ -60,16 +65,14 @@
 </div>
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&theme=tokyonight&hide_border=false" alt="streak stats" />
-  <br/>
-<br/><br/>
 
-<hr/>
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azrilpramudia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <br/><br/>
 
-<br/>
-
- [![](https://visitcount.itsvg.in/api?id=Azrilpramudia&icon=5&color=1)](https://visitcount.itsvg.in)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilpramudia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azrilpramudia&theme=tokyonight" alt="profile details" />
+</div>
