@@ -9,7 +9,7 @@
 
 <div>
 
-<h3>About Me :</h3>
+### About Me :
 
 ```javascript
 const meow = {
@@ -24,7 +24,7 @@ const meow = {
   
 <div align="left">
 
-### Connect With Me
+#### Connect With Me
   
   <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
