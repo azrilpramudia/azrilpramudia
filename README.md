@@ -15,7 +15,7 @@
 const meow = {
     location: "Indonesia 🇮🇩",
     education: "Informatics Engineering at Nusantara Islamic University",
-    passionate: ["Web Development", "Linux Enthusiast"],
+    passionate: ["Web Development", "Computer Network","Linux Enthusiast"],
     currentlyLearning: ["React", "TailwindCSS", "JavaScript", "TypeScript", "Docker"],
     funFact: ["Playing Guitar", "Playing Piano"],
 };
@@ -65,7 +65,7 @@ const meow = {
 </div>
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
