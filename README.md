@@ -46,7 +46,7 @@ const meow = {
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=mysql,linux,prisma,docker,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,prisma,docker,bash,cloudflare,nginx" /><br>
 </div>
 
 <br/>
