@@ -15,8 +15,8 @@
 const meow = {
     location: "Indonesia 🇮🇩",
     education: "Informatics Engineering at Nusantara Islamic University",
-    passionate: ["Web Development", "Computer Network","Linux Enthusiast"],
-    currentlyLearning: ["React", "TailwindCSS", "JavaScript", "TypeScript", "Docker"],
+    passionate: ["Web Development", "Linux Enthusiast"],
+    currentlyLearning: ["Go", "Docker", "PostgreSQL", "Node.js"],
     funFact: ["Playing Guitar", "Playing Piano"],
 };
 ```
