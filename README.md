@@ -1,30 +1,16 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
-</h1>
-
 [![An image of @azrilpramudia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azrilpramudia)](https://holopin.io/@azrilpramudia)
 
 <br/>
 
-
-<div>
-
 ### About Me :
-
-```javascript
-const meow = {
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Engineering at Nusantara Islamic University",
-    passionate: ["Software Engineering", "Linux Enthusiast"],
-    currentlyLearning: ["Go", "Docker", "PostgreSQL", "Node.js"],
-    funFact: ["Playing Guitar", "Playing Piano"],
-};
 ```
-</div>
+Hi, I,m Meow
+Backend Engineer Btw, But Still Learning & Beginners
+```
   
 <div align="left">
 
-#### Connect With Me
+<h3>Connect with me:</h3>
   
   <a href="https://linkedin.com/in/azril-pramudia-anugrah-202a872a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -40,20 +26,13 @@ const meow = {
   </a>
 </div>
 
- <hr/>
+## 🛠️ Languages & Tools
 
-<h2 align="center">Tech Stack</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,prisma,docker,bash,cloudflare,nginx" /><br>
-</div>
+<div>
+    <img src="https://skillicons.dev/icons?i=go,javascript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,prisma,docker,bash,cloudflare,nginx,git" />
+<div/>
 
 <br/>
 
-<hr/>
-<h2 align="center"> Stats </h2>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=azrilpramudia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
+[![roadmap.sh](https://roadmap.sh/card/wide/671ca7eb768f9ccdb0a6b2a7?variant=dark&roadmaps=backend)](https://roadmap.sh)
