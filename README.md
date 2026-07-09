@@ -15,7 +15,7 @@
 const meow = {
     location: "Indonesia 🇮🇩",
     education: "Informatics Engineering at Nusantara Islamic University",
-    passionate: ["Web Development", "Linux Enthusiast"],
+    passionate: ["Software Engineering", "Linux Enthusiast"],
     currentlyLearning: ["Go", "Docker", "PostgreSQL", "Node.js"],
     funFact: ["Playing Guitar", "Playing Piano"],
 };
