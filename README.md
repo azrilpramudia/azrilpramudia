@@ -35,4 +35,4 @@ Backend Engineer Focusing on Go Btw, But Still Learning & Beginners
 
 <br/>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/671ca7eb768f9ccdb0a6b2a7?variant=dark&roadmaps=backend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/671ca7eb768f9ccdb0a6b2a7?variant=dark&roadmaps=backend%2Cgolang)](https://roadmap.sh)
