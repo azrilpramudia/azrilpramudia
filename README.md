@@ -24,6 +24,9 @@ Backend Engineer Focusing on Go Btw, But Still Learning & Beginners
   <a href="https://www.youtube.com/@meow_dotenv" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.hackerrank.com/profile/azrilpramudia01" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ## 🛠️ Languages & Tools
