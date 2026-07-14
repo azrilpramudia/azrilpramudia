@@ -29,8 +29,8 @@ Backend Engineer Focusing on Go Btw, But Still Learning & Beginners
 ## 🛠️ Languages & Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=go,javascript,nodejs" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,prisma,docker,bash,cloudflare,nginx,git" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,nodejs,docker,linux,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,bash,cloudflare,nginx" />
 <div/>
 
 <br/>
