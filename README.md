@@ -5,7 +5,7 @@
 ### About Me :
 ```
 Hi, I,m Meow
-Backend Engineer Focusing on Go Btw, But Still Learning & Beginners
+Backend Engineer Focusing on Go Btw. 
 ```
   
 <div align="left">
