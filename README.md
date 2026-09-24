@@ -27,12 +27,15 @@ Backend Engineer Focusing on Go Btw.
   <a href="https://www.hackerrank.com/profile/azrilpramudia01" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
   </a>
+  <a href="https://gitlab.com/azrilpramudia" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/>
+  </a>
 </div>
 
 ## 🛠️ Languages & Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=go,javascript,nodejs,docker,linux,git" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,nodejs,docker,linux,git,redis" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,bash,cloudflare,nginx" />
 <div/>
 
